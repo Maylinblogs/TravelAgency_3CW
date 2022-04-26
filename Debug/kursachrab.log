@@ -1,0 +1,7 @@
+﻿  kursachrab.cpp
+C:\Users\Татьяна\source\repos\kursachrab\kursachrab.cpp(785,1): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\Татьяна\source\repos\kursachrab\kursachrab.cpp(973,32): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Татьяна\source\repos\kursachrab\kursachrab.cpp(984,32): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Татьяна\source\repos\kursachrab\kursachrab.cpp(1233): warning C4715: proverka: значение возвращается не при всех путях выполнения
+C:\Users\Татьяна\source\repos\kursachrab\kursachrab.cpp(1333): warning C4715: proverka_admin: значение возвращается не при всех путях выполнения
+  kursachrab.vcxproj -> C:\Users\Татьяна\source\repos\kursachrab\Debug\kursachrab.exe
